@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "63413a3a560399f98bc3be77"
+  },
+  "name": "Nguyen Van B",
+  "dob": {
+    "$date": {
+      "$numberLong": "1667001600000"
+    }
+  },
+  "email": "abc@gmail.com",
+  "grade": 6,
+  "year": 3,
+  "gender": "Male",
+  "image": "https://bloganchoi.com/wp-content/uploads/2019/08/phim-hoat-hinh-khong-danh-cho-tre-nho.jpg"
+},{
+  "_id": {
+    "$oid": "63413a3a560399f98bc3be78"
+  },
+  "name": "Nguyen Van A",
+  "dob": {
+    "$date": {
+      "$numberLong": "1665792000000"
+    }
+  },
+  "email": "abc@gmail.com",
+  "grade": 9,
+  "year": 3,
+  "gender": "Male",
+  "image": "https://media.doisongvietnam.vn/u/rootimage/editor/2019/04/27/21/22/w825/fw1556353344_9139.jpg"
+},{
+  "_id": {
+    "$oid": "6347c491ecd4904cedf39afe"
+  },
+  "name": "Nguyễn Văn C",
+  "email": "asaf@gmail.com",
+  "gender": "Male",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJXlS99c75cyGObR9jdmPBEVv8VFnH_oe1fA&usqp=CAU",
+  "dob": {
+    "$date": {
+      "$numberLong": "1667001600000"
+    }
+  },
+  "year": 2002,
+  "grade": 9
+},{
+  "_id": {
+    "$oid": "6347c4e6ecd4904cedf39b01"
+  },
+  "name": "Nguyễn Văn D",
+  "email": "dsfsdfd@gmail.com",
+  "gender": "Female",
+  "image": "https://media.baodautu.vn/Images/duongngan/2021/06/22/ma%20t%C3%BAy.jpg",
+  "dob": {
+    "$date": {
+      "$numberLong": "1667001600000"
+    }
+  },
+  "year": 2002,
+  "grade": 5
+}]

@@ -1,0 +1,47 @@
+run auto: npm install nodemon
+"dev": "nodemon app.js"
+npm run dev
+npm i hbs nodemon express mongoose body-parser --save
+const url="mongodb://127.0.0.1:27017/demo";
+
+
+//-------------Famework------
+1. tạo thư mục chứa web project (VD: web) trong VS Code
+2. mở Terminal : bấm phải chuột chọn chọn Open In => Terminal
+
+    npx express-generator
+    npx express-generator --view=hbs
+    npm i nodemon mongoose body-parser --save(
+Cầu hình trong app.js=>   "start": "node app.js",
+                          "dev":"nodemon app.js")
+
+
+
+3. Bổ sung code vào app.js
+app.listen(port, () => {
+  console.log("Server is running at http://localhost:3000");
+});
+
+//------Cầu hình MongoDB -----
+var mongoose = require("mongoose");
+
+var url="mongodb://127.0.0.1:27017/greenwich";
+mongoose.connect(url, { useNewUrlParser: true }, (err) => {
+  if (err) {
+    console.log(err);
+  } else {
+    console.log("connect to db succeed !");
+  }
+});
+//Cầu hình BodyParser --------------------------------
+var bodyParser = require("body-parser");
+app.use(bodyParser.urlencoded({ extended: false }));
+4. cài đặt các dependencies
+    npm install  
+5. khởi động web server
+    SET DEBUG=web:* & npm start
+Note: 'web' là tên của web project vừa tạo
+
+6. mở trình duyệt web (VD: Chrome) và gõ địa chỉ
+    localhost:3000
+Note: 3000 là port mặc định của ExpressJS

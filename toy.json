@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "634a7b2ac3d77be7df41e818"
+  },
+  "name": "Bua 100kg",
+  "price": 300,
+  "description": "bua 100kh sieu cute",
+  "year": 2020,
+  "image": "https://salt.tikicdn.com/cache/750x750/ts/product/a1/5d/d5/0102c9f7064f7175cd9746e6f8483a4e.jpg.webp",
+  "longdescription": "bua 100kh sieu cutehehehehehasdl kalskdn áldn alknsdklands"
+},{
+  "_id": {
+    "$oid": "634a7b97c3d77be7df41e81d"
+  },
+  "name": "Set of coloring pens to make 12 color stickers",
+  "price": 700,
+  "year": 2022,
+  "image": "https://dochoitreem.com/wp-content/uploads/2022/09/Bo-but-ve-to-mau-lam-sticker-12-mau-500x480.jpg",
+  "description": "bộ bút màu vẽ",
+  "longdescription": "Bộ bút vẽ tô màu làm sticker 12 màu AMOS0012\nSản phẩm được làm từ chất liệu an toàn không gây độc hại cho trẻ nhỏ, nên quý phụ huynh hoàn toàn có thể yên tâm sẽ không gây ảnh hưởng đến sức khỏe của bé."
+},{
+  "_id": {
+    "$oid": "635389d3504241868d7b123d"
+  },
+  "name": "Súng đồ chơi",
+  "price": 700,
+  "year": 2022,
+  "image": "https://bizweb.dktcdn.net/100/096/067/products/gun-9937-2.jpg?v=1659342188860",
+  "description": "Súng đồ chơi bắn đạn ",
+  "longdescription": "Bộ sản phẩm gồm: súng, đạn mút xốp mềm.\nSử dụng: sử dụng 4 pin AA\nKích thước hộp sản phẩm: 50 x 18 x 15 cm.\nKích thước súng: 42 x 19 x 8.5 cm .Kích thước đầu đạn xốp: 7 cm"
+},{
+  "_id": {
+    "$oid": "63538c6e504241868d7b123e"
+  },
+  "name": "Súng lục đồ chơi",
+  "price": 500,
+  "year": 2021,
+  "image": "https://salt.tikicdn.com/cache/750x750/ts/product/8a/c1/97/4393d2a7f8ad7755e182e69ee7fb0faa.jpg.webp",
+  "description": "Súng đồ chơi bắn đạn ",
+  "longdescription": "Bộ sản phẩm gồm: súng, đạn mút xốp mềm.\nSử dụng: sử dụng 4 pin AA\nKích thước hộp sản phẩm: 50 x 18 x 15 cm.\nKích thước súng: 42 x 19 x 8.5 cm .Kích thước đầu đạn xốp: 7 cm"
+},{
+  "_id": {
+    "$oid": "63538e1b9029c2ceaee524f9"
+  },
+  "name": "Bộ Đồ Chơi Nhà Bếp ",
+  "price": 600,
+  "year": 2020,
+  "image": "https://cdn0.fahasa.com/media/catalog/product/8/9/8936178580308_1_1.jpg",
+  "description": "đồ chơi nhà bếp",
+  "longdescription": "Thông Số Kỹ Thuật\tCó Dùng Pin, Pin Không Kèm Trong Sản Phẩm Thông Tin Cảnh Báo\tSản phẩm có chi tiết nhỏ, không thích hợp cho trẻ dưới 3 tuổi. Hướng Dẫn Sử Dụng\tDùng chơi bằng tay. Trọng lượng (gr)\t750"
+},{
+  "_id": {
+    "$oid": "63538f629029c2ceaee52513"
+  },
+  "name": "Lego chiến ",
+  "price": 800,
+  "year": 2021,
+  "image": "https://sansanstore.net/wp-content/uploads/2021/06/tauchienhamtuanduong112-2-400x400.jpg",
+  "description": "Lego đồ chơi lắp ráp tàu chiến hạm 112 giúp trẻ tư duy thông minh sáng tạo 910 mảnh ghép",
+  "longdescription": "+ Đồ chơi lắp ráp lego tàu chiến hạm 112 giúp rèn luyện tính kiên trì làm cho trẻ tránh xa màn hình tivi và điện thoại. + Đồ chơi Lego tàu chiến hạm 112 thích trí não trẻ em tăng khả năng sáng tạo tư "
+}]

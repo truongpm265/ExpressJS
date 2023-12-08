@@ -1,0 +1,1 @@
+npm i nodemon mongoose hbs express cors body-parser --save 
